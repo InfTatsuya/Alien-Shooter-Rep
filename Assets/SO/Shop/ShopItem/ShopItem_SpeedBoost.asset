@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7da4abd7c3c6c740bf057414389007f, type: 3}
+  m_Name: ShopItem_SpeedBoost
+  m_EditorClassIdentifier: 
+  title: Speed Boost
+  price: 400
+  item: {fileID: 11400000, guid: 3730b262fa6b6d74e8eabde1d13c2fa9, type: 2}
+  itemIcon: {fileID: 21300000, guid: 49c19e3bbd276794faec17348871818c, type: 3}
+  description: 'Boost player speed by 20 in 5 seconds.
+
+
+    Stanima cost: 30
+
+    Cooldown:
+    10s'

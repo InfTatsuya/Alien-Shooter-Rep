@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7da4abd7c3c6c740bf057414389007f, type: 3}
+  m_Name: ShopItem_HealthRegen
+  m_EditorClassIdentifier: 
+  title: Health Regen
+  price: 300
+  item: {fileID: 11400000, guid: cb9fff33841061d40818fd683bc97041, type: 2}
+  itemIcon: {fileID: 21300000, guid: b0d162ff35e60e44683ed40b336c4ea4, type: 3}
+  description: 'Regen health by 40 within 4 seconds.
+
+
+    Stamina cost: 10
+
+    Cooldown:
+    5s'
